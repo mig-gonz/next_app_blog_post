@@ -1,4 +1,5 @@
 import React from "react";
+
 type Props = {
   promise: Promise<Post[]>;
 };
